@@ -1,0 +1,2 @@
+# Relation-Scheme-Metadata
+Modelled the information content of the relation scheme diagram, combined with the database model into one model, used SQL to extract data from the database and built logic to create reports and visualization using Tableau. Enforced important constraints on the data and produced useful output, DDL statements to create the corresponding tables, Triggers, Stored Procedure to implement the business rules
